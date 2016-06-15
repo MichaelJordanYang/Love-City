@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="ThemesCell" rowHeight="148" id="0jF-3i-4tC" customClass="JDYThemesCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="240"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="0jF-3i-4tC" id="1sz-eF-iFK">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="239.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="o2u-pV-3O6">
+                        <rect key="frame" x="0.0" y="5" width="320" height="234.5"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="dfadfasdfas" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DPd-lF-ykt">
+                        <rect key="frame" x="20" y="90" width="280" height="26.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WCv-ne-bxT">
+                        <rect key="frame" x="30" y="121" width="260" height="19.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="N1r-Pr-uAy">
+                        <rect key="frame" x="0.0" y="5" width="320" height="234.5"/>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="o2u-pV-3O6" secondAttribute="bottom" id="1TD-LK-zJ0"/>
+                    <constraint firstAttribute="trailing" secondItem="N1r-Pr-uAy" secondAttribute="trailing" id="88k-mw-sgL"/>
+                    <constraint firstItem="WCv-ne-bxT" firstAttribute="top" secondItem="DPd-lF-ykt" secondAttribute="bottom" constant="5" id="8go-6V-c4g"/>
+                    <constraint firstItem="DPd-lF-ykt" firstAttribute="top" secondItem="1sz-eF-iFK" secondAttribute="top" constant="90" id="Kgp-lD-qtb"/>
+                    <constraint firstAttribute="trailing" secondItem="DPd-lF-ykt" secondAttribute="trailing" constant="20" id="Lsk-Zf-yfP"/>
+                    <constraint firstItem="N1r-Pr-uAy" firstAttribute="leading" secondItem="1sz-eF-iFK" secondAttribute="leading" id="ONA-cm-gn4"/>
+                    <constraint firstItem="DPd-lF-ykt" firstAttribute="leading" secondItem="1sz-eF-iFK" secondAttribute="leading" constant="20" id="SFE-q9-tuj"/>
+                    <constraint firstItem="N1r-Pr-uAy" firstAttribute="top" secondItem="1sz-eF-iFK" secondAttribute="top" constant="5" id="T2X-Ou-IRk"/>
+                    <constraint firstAttribute="trailing" secondItem="o2u-pV-3O6" secondAttribute="trailing" id="TdW-cv-5U1"/>
+                    <constraint firstItem="o2u-pV-3O6" firstAttribute="leading" secondItem="1sz-eF-iFK" secondAttribute="leading" id="ZRE-Cn-ERR"/>
+                    <constraint firstAttribute="bottom" secondItem="N1r-Pr-uAy" secondAttribute="bottom" id="lG3-Dl-Hox"/>
+                    <constraint firstItem="o2u-pV-3O6" firstAttribute="top" secondItem="1sz-eF-iFK" secondAttribute="top" constant="5" id="lgX-Do-UwG"/>
+                    <constraint firstItem="WCv-ne-bxT" firstAttribute="leading" secondItem="1sz-eF-iFK" secondAttribute="leading" constant="30" id="yIN-C4-xZu"/>
+                    <constraint firstAttribute="trailing" secondItem="WCv-ne-bxT" secondAttribute="trailing" constant="30" id="znQ-vT-G6g"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="backImageV" destination="o2u-pV-3O6" id="f78-dc-bOm"/>
+                <outlet property="moreshadows" destination="N1r-Pr-uAy" id="Boz-Gd-8OG"/>
+                <outlet property="subLabel" destination="WCv-ne-bxT" id="0FA-KI-ACy"/>
+                <outlet property="titleLabel" destination="DPd-lF-ykt" id="Vjb-qp-5qf"/>
+            </connections>
+            <point key="canvasLocation" x="484" y="381"/>
+        </tableViewCell>
+    </objects>
+</document>

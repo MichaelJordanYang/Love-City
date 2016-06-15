@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>date</key>
+		<string>2015-08-23</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Niederbarnimstr. 6 10247 Berlin</string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>虽然数码产品日新月异，打字和收发邮件的便利让整个世界几乎能够零距离的交流，不过很多人依然迷恋于纸张的手感，就算互联网提供了更快速的选择，还是很执著于翻阅书本及杂志的真实感，偶尔也想提笔写张手写卡片，把满满暖意寄给朋友。</string>
+				<key>eid</key>
+				<integer>130125</integer>
+				<key>enddate</key>
+				<integer>3007680686</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>不折腾，才逍遥</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-05-06/event121380.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;虽然数码产品日新月异，打字和收发邮件的便利让整个世界几乎能够零距离的交流，不过很多人依然迷恋于纸张的手感，就算互联网提供了更快速的选择，还是很执著于翻阅书本及杂志的真实感，偶尔也想提笔写张手写卡片，把满满暖意寄给朋友。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121381.jpg&quot; height=&quot;430&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121381.jpg&quot; width=&quot;700&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121375.jpg&quot; height=&quot;434&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121375.jpg&quot; width=&quot;650&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;Schoene Schreibwaren利用黑白为主的空间，把纸张变得很时尚。产品包括各式各样的像本，笔记簿，行事历等。也像精品店一样提供客制化的商品。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121376.jpg&quot; height=&quot;634&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121376.jpg&quot; width=&quot;950&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121377.jpg&quot; height=&quot;634&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121377.jpg&quot; width=&quot;950&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121378.jpg&quot; height=&quot;180&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121378.jpg&quot; width=&quot;300&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121382.jpg&quot; height=&quot;368&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121382.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;​&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Niederbarnimstr. 6&lt;/p&gt;&lt;p&gt;10247 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://www.schoeneschreibwaren.com/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周一至周五: 10am – 7pm&lt;/p&gt;&lt;p&gt;周六: 10am - 6pm&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>SCHOENE SCHREIBWAREN</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-130125.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>乐活,有趣,纯质,探店,逛街</string>
+				<key>telephone</key>
+				<string></string>
+				<key>title</key>
+				<string>Schoene Schreibwaren 文化用具专卖【用纸张留住岁月】</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array>
+			<dict>
+				<key>begin_time</key>
+				<string>2015-08-18</string>
+				<key>hasweb</key>
+				<integer>1</integer>
+				<key>height</key>
+				<integer>375</integer>
+				<key>img</key>
+				<string>http://pic.huodongjia.com/event/2015-06-24/event129049.jpg</string>
+				<key>keywords</key>
+				<string>历史 人文 记录</string>
+				<key>text</key>
+				<string>&lt;body&gt;&lt;p&gt;博物馆一直是我的最爱，每每隔着千百年时光凝望那些陈 旧的古物，总是莫名感动。当鲜活的面孔与肉体都已化为尘埃，当一段激荡的故事变为泛黄纸页上几行冰冷的文字，当这世间再没有人记得你的名字，知道你的存在，而曾经于手中的一块铜镜，一把铁剑，或是一片残瓦，或许曾见证一段传奇，承载一世的苍凉。 &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/body&gt;</string>
+				<key>themeurl</key>
+				<string>http://api.xiaorizi.me/api/themedetail/?themeid=149</string>
+				<key>title</key>
+				<string>岁月里的酸甜苦辣</string>
+				<key>width</key>
+				<integer>500</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-07-22</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Senefelderstr. 29, Täglich Brot und feine Kost - Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>看到名字你应该就能猜到，Cereals No. 29是一家健康早餐烘焙店。所有的早餐面包都是严选天然材料制成的，又健康又美味。店内还出售自家制作的各式果酱和特色早餐饮品，让每个人的美好一天都从美妙的早餐体验开始。</string>
+				<key>eid</key>
+				<integer>130024</integer>
+				<key>enddate</key>
+				<integer>3007178496</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>一事精致，便能动人</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-30/event120696.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;看到名字你应该就能猜到，Cereals No. 29是一家健康早餐烘焙店。所有的早餐面包都是严选天然材料制成的，又健康又美味。店内还出售自家制作的各式果酱和特色早餐饮品，让每个人的美好一天都从美妙的早餐体验开始。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120695.jpg&quot; height=&quot;500&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120695.jpg&quot; width=&quot;940&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120686.jpg&quot; height=&quot;413&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120686.jpg&quot; width=&quot;275&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120688.jpg&quot; height=&quot;354&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120688.jpg&quot; width=&quot;236&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120689.jpg&quot; height=&quot;638&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120689.jpg&quot; width=&quot;960&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120693.jpg&quot; height=&quot;480&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120693.jpg&quot; width=&quot;360&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120690.jpg&quot; height=&quot;480&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-30/event120690.jpg&quot; width=&quot;640&quot;&gt;&lt;/img&gt;​&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Senefelderstr. 29, Täglich Brot und feine Kost - Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://cereals-berlin.de/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 (0 30) 40 30 16 54&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周一不营业&lt;/p&gt;&lt;p&gt;周二到周五 8:00 - 18:00&lt;/p&gt;&lt;p&gt;周六  9:00 - 16:00&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Cereals No. 29 餐厅</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-130024.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>乐活,温润,纯质,探店,逛街,甜品铺,面包房</string>
+				<key>telephone</key>
+				<string>+49(030)40301654</string>
+				<key>title</key>
+				<string>Cereals No. 29 健康早餐店【美好生活从早晨开始】</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-07-21</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Mulackstr. 14 10119 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>R.S.V.P. 成立于2001年，专门出售高级文化纸质用品。这里收集了来自世界各地的高级纸制品，品牌包括Caran d’Ache (瑞士), Otho (日本), Koh–I–Noor (捷克) and Kaweco (德国)等等. 同时店里也有世界各地艺术家和设计师的创意新作，喜爱新奇小玩意的人们记得来扫扫货。</string>
+				<key>eid</key>
+				<integer>130129</integer>
+				<key>enddate</key>
+				<integer>3007693505</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>想象你是一颗飞翔的种子</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-05-06/event121441.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;R.S.V.P. 成立于2001年，专门出售高级文化纸质用品。这里收集了来自世界各地的高级纸制品，品牌包括Caran d’Ache (瑞士), Otho (日本), Koh–I–Noor (捷克) and Kaweco (德国)等等. 同时店里也有世界各地艺术家和设计师的创意新作，喜爱新奇小玩意的人们记得来扫扫货。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121427.jpg&quot; height=&quot;634&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121427.jpg&quot; width=&quot;950&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121433.jpg&quot; height=&quot;1104&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121433.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121429.jpg&quot; height=&quot;400&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121429.jpg&quot; width=&quot;600&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121435.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121435.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121437.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121437.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121432.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121432.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121439.jpg&quot; height=&quot;469&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121439.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121434.jpg&quot; height=&quot;399&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121434.jpg&quot; width=&quot;600&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121438.jpg&quot; height=&quot;736&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121438.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;​&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121440.jpg&quot; height=&quot;1104&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121440.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121430.jpg&quot; height=&quot;283&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-06/event121430.jpg&quot; width=&quot;472&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mulackstr. 14&lt;/p&gt;&lt;p&gt;10119 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;https://rsvp-berlin.de/en&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 030 280 946 44&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周一至周四: 11am – 7pm&lt;/p&gt;&lt;p&gt;周五至周六: 11am - 8pm&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>R.S.V.P.</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-130129.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>乐活,有趣,纯质,探店,逛街,艺术空间</string>
+				<key>telephone</key>
+				<string>+4903028094644</string>
+				<key>title</key>
+				<string>R.S.V.P. 酷炫文具店【把全世界买回家】</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array>
+			<dict>
+				<key>begin_time</key>
+				<string>2015-08-01</string>
+				<key>hasweb</key>
+				<integer>1</integer>
+				<key>height</key>
+				<integer>400</integer>
+				<key>img</key>
+				<string>http://pic.huodongjia.com/event/2015-07-31/event133130.jpg</string>
+				<key>keywords</key>
+				<string>乐活 赏味 有趣</string>
+				<key>text</key>
+				<string>&lt;body&gt;&lt;p&gt;世界那么大，我想去看看! 世界那么大，你有时间去看看吗？你有勇气去看看吗？你有足够的粪土去看看吗旅行的冲动就如绚烂的烟花稍纵即逝，狂欢过后还是要面对漫漫岁月的平淡。不如来一场不出京城的跨国盛宴，满足你环游世界的心愿。&lt;/p&gt;&lt;/body&gt;</string>
+				<key>themeurl</key>
+				<string>http://api.xiaorizi.me/api/themedetail/?themeid=187</string>
+				<key>title</key>
+				<string>来场大爱，从早到晚的国际盛宴</string>
+				<key>width</key>
+				<integer>640</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-06-20</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Bartningallee 29 in 10557 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>Konditorei und Cafe Buchwald是一间历史悠久的Baumkuchen专卖店。Baumkuchen，这个看似很难念的德语单词，意思是指有着层层花纹的年轮蛋糕，在欧洲被视为“蛋糕之王”。当对其作横断切开时呈现了特征性的金色环圈，而使之得“年轮”之名——Baumkuchen直译即为“树木蛋糕”（Tree Cake）。第一个年轮蛋糕是由Johann Christian D. Andreas Schernikow (1784 - 1852)在1807年德国的Salzwedel所烘培出。</string>
+				<key>eid</key>
+				<integer>130003</integer>
+				<key>enddate</key>
+				<integer>3008471404</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>安安静静的时候会若有所悟</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-29/event120420.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Konditorei und Cafe Buchwald是一间历史悠久的Baumkuchen专卖店。Baumkuchen，这个看似很难念的德语单词，意思是指有着层层花纹的年轮蛋糕，在欧洲被视为“蛋糕之王”。当对其作横断切开时呈现了特征性的金色环圈，而使之得“年轮”之名——Baumkuchen直译即为“树木蛋糕”（Tree Cake）。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120421.jpg&quot; height=&quot;660&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120421.jpg&quot; width=&quot;990&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120417.jpg&quot; height=&quot;1092&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120417.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;第一个年轮蛋糕是由Johann Christian D. Andreas Schernikow (1784 - 1852)在1807年德国的Salzwedel所烘培出。而作为专门经营Baumkuchen面包店160多年的Buchwald家族，可以说是将年轮蛋糕艺术掌握得炉火纯青，将蛋糕放在火上慢烤，涂上巧克力和杏仁碎，入口既是满满的幸福感。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120422.jpg&quot; height=&quot;276&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120422.jpg&quot; width=&quot;460&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120424.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120424.jpg&quot; width=&quot;490&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120414.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120414.jpg&quot; width=&quot;490&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120416.jpg&quot; height=&quot;320&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120416.jpg&quot; width=&quot;440&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120415.jpg&quot; height=&quot;640&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120415.jpg&quot; width=&quot;463&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bartningallee 29 in 10557 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://www.konditorei-buchwald.de/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 (0)30 391 59 31 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周一到周六 8am-6pm&lt;/p&gt;&lt;p&gt;周日       9am-6pm&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Konditorei und Cafe Buchwald</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-130003.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>温润,有趣,纯质,探店,逛街,咖啡馆,艺术空间,面包房</string>
+				<key>telephone</key>
+				<string>+49(0)303915931</string>
+				<key>title</key>
+				<string>Konditorei und Cafe Buchwald历史悠久的年轮蛋糕店</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-05-19</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Warschauer Straße 39/40 10243 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>Michelberger酒店由著名的柏林本土设计大师Werner Aisslinger设计完成。旨在为来到柏林的人们提供一个有设计感，酷炫，性价比高的酒店。酒店位于一幢旧工厂大楼内，内部设计用到很多手工制作的家居用品和从跳蚤市场淘来的宝贝，每个房间都用到不同的设计和装饰。你的每一次入住，都可以找到不同的家居新奇灵感，把这些点子带回家里，就仿佛猎奇一般。
+</string>
+				<key>eid</key>
+				<integer>129998</integer>
+				<key>enddate</key>
+				<integer>3011935522</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>2</integer>
+				<key>feeltitle</key>
+				<string>此身此生此世，且度且思且行</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-29/event120375.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Michelberger酒店由著名的柏林本土设计大师Werner Aisslinger设计完成。旨在为来到柏林的人们提供一个有设计感，酷炫，性价比高的酒店。酒店位于一幢旧工厂大楼内，内部设计用到很多手工制作的家居用品和从跳蚤市场淘来的宝贝，每个房间都用到不同的设计和装饰。你的每一次入住，都可以找到不同的家居新奇灵感，把这些点子带回家里，就仿佛猎奇一般。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120374.jpg&quot; height=&quot;1104&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120374.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120378.jpg&quot; height=&quot;745&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120378.jpg&quot; width=&quot;500&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120385.jpg&quot; height=&quot;319&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120385.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120370.jpg&quot; height=&quot;750&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120370.jpg&quot; width=&quot;500&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120387.jpg&quot; height=&quot;791&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120387.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120363.jpg&quot; height=&quot;750&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120363.jpg&quot; width=&quot;502&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120388.jpg&quot; height=&quot;696&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120388.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120360.jpg&quot; height=&quot;509&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120360.jpg&quot; width=&quot;561&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120366.jpg&quot; height=&quot;1108&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120366.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120367.jpg&quot; height=&quot;332&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120367.jpg&quot; width=&quot;500&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120362.jpg&quot; height=&quot;891&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120362.jpg&quot; width=&quot;630&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120371.jpg&quot; height=&quot;832&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120371.jpg&quot; width=&quot;588&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120358.jpg&quot; height=&quot;640&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120358.jpg&quot; width=&quot;640&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120373.jpg&quot; height=&quot;373&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120373.jpg&quot; width=&quot;561&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120365.jpg&quot; height=&quot;755&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120365.jpg&quot; width=&quot;500&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Warschauer Straße 39/40&lt;/p&gt;&lt;p&gt;10243 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://www.michelbergerhotel.com/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 302977859-0&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>The Michelberger Hotel</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-129998.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>有趣,惬意,酷炫,探店,逛街,艺术空间,家饰馆,手工作坊</string>
+				<key>telephone</key>
+				<string>+49302977859-0</string>
+				<key>title</key>
+				<string>The Michelberger Hotel 设计酒店灵感迸发</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-04-18</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Flughafenstraße 46 12053 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>初次走进Lavanderia Vecchia你会被挂了满屋的各种衣物布料给吓了一跳，心想：&quot;我这是到了一个什么地方啊？&quot; 其实这是一间正统的意大利餐厅。因为餐厅所在的地方曾经是一个废弃的洗衣工房，所以餐厅索性就以这个洗衣房作为装饰的灵感，造就了这一间气质独特的loft混搭风格的格调餐厅。有机会定要前来这里感受一下这个有趣的混搭就餐体验。
+</string>
+				<key>eid</key>
+				<integer>129995</integer>
+				<key>enddate</key>
+				<integer>3007093870</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>心之所向，便是梦之所倚</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-29/event120346.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;初次走进Lavanderia Vecchia你会被挂了满屋的各种衣物布料给吓了一跳，心想：&quot;我这是到了一个什么地方啊？&quot; 其实这是一间正统的意大利餐厅。因为餐厅所在的地方曾经是一个废弃的洗衣工房，所以餐厅索性就以这个洗衣房作为装饰的灵感，造就了这一间气质独特的loft混搭风格的格调餐厅。有机会定要前来这里感受一下这个有趣的混搭就餐体验。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120338.jpg&quot; height=&quot;558&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120338.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120347.jpg&quot; height=&quot;1103&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120347.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120341.jpg&quot; height=&quot;900&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120341.jpg&quot; width=&quot;600&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120348.jpg&quot; height=&quot;480&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120348.jpg&quot; width=&quot;720&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120340.jpg&quot; height=&quot;356&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120340.jpg&quot; width=&quot;632&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120344.jpg&quot; height=&quot;572&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120344.jpg&quot; width=&quot;444&quot;&gt;&lt;/img&gt;​&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120337.jpg&quot; height=&quot;480&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120337.jpg&quot; width=&quot;640&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120339.jpg&quot; height=&quot;489&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120339.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120349.jpg&quot; height=&quot;612&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120349.jpg&quot; width=&quot;612&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120343.jpg&quot; height=&quot;648&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120343.jpg&quot; width=&quot;388&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120334.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120334.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120345.jpg&quot; height=&quot;552&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120345.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120335.jpg&quot; height=&quot;707&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120335.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Flughafenstraße 46 12053 Berlin &lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://www.lavanderiavecchia.de/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 030 62722152&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Lavanderia Vecchia</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-129995.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>私厨,赏味,有趣,惬意,酷炫,餐吧</string>
+				<key>telephone</key>
+				<string>+4903062722152</string>
+				<key>title</key>
+				<string>Lavanderia Vecchia 在洗衣工坊里吃大餐</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-03-17</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Kollwitzstrasse 83, Prenzlauer berg</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>Café Anna Blume所处的地方是一个林荫道，道路两旁绿树成荫。于是乎这里的室外就餐区成了最受欢迎的区域。坐在这里，披散着星星点点的阳光，还被身边可爱的花花草草们簇拥，回归户外大自然的怀抱真是一件再美不过的事啦！</string>
+				<key>eid</key>
+				<integer>129990</integer>
+				<key>enddate</key>
+				<integer>3007091352</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>品味是心灵上的自信与从容</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-29/event120297.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Café Anna Blume所处的地方是一个林荫道，道路两旁绿树成荫。于是乎这里的室外就餐区成了最受欢迎的区域。坐在这里，披散着星星点点的阳光，还被身边可爱的花花草草们簇拥，回归户外大自然的怀抱真是一件再美不过的事啦！&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120285.jpg&quot; height=&quot;720&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120285.jpg&quot; width=&quot;720&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120283.jpg&quot; height=&quot;319&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120283.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120311.jpg&quot; height=&quot;426&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120311.jpg&quot; width=&quot;640&quot;&gt;&lt;/img&gt;​&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120289.jpg&quot; height=&quot;300&quot; line-height=&quot;1.6em&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120289.jpg&quot; width=&quot;650&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120288.jpg&quot; height=&quot;300&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120288.jpg&quot; width=&quot;650&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120300.jpg&quot; height=&quot;300&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120300.jpg&quot; width=&quot;650&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120293.jpg&quot; height=&quot;530&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120293.jpg&quot; width=&quot;530&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;Café Anna Blume的早餐很受欢迎，不仅仅是因为味道好吃，更因为它有趣的呈现方式：早餐的内容被装进一个多层的餐架内，看起来很像英式下午茶一般精致可人。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120284.jpg&quot; height=&quot;635&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120284.jpg&quot; width=&quot;481&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120299.jpg&quot; height=&quot;413&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120299.jpg&quot; width=&quot;620&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120296.jpg&quot; height=&quot;427&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120296.jpg&quot; width=&quot;640&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kollwitzstrasse 83, Prenzlauer berg &lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://www.cafe-anna-blume.de/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地铁&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;U线 Senefelder Platz站&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Café Anna Blume</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-129990.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>乐活,纯质,惬意,探店,逛街,咖啡馆</string>
+				<key>telephone</key>
+				<string></string>
+				<key>title</key>
+				<string>Café Anna Blume 花团锦簇艳阳下</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array>
+			<dict>
+				<key>begin_time</key>
+				<string>2015-08-05</string>
+				<key>hasweb</key>
+				<integer>1</integer>
+				<key>height</key>
+				<integer>400</integer>
+				<key>id</key>
+				<integer>196</integer>
+				<key>img</key>
+				<string>http://pic.huodongjia.com/event/2015-08-04/event133365.jpg</string>
+				<key>keywords</key>
+				<string>高雅 酷炫 新奇</string>
+				<key>text</key>
+				<string>&lt;body&gt;&lt;p&gt;哭过笑过的地方叫北京，玩过闹过的地方叫北京，爱过恨过的地方叫北京，住过拆了的地方叫北京，吃饱了就睡的地方叫北京，走过路过的都是北京，所以别瞎逛了，卤煮带你们寻找新高度，偏离航线也能飞出新视线，无所不能的北京。&lt;/p&gt;&lt;/body&gt;</string>
+				<key>themeurl</key>
+				<string>http://api.xiaorizi.me/api/themedetail/?themeid=196</string>
+				<key>title</key>
+				<string>别瞎逛了 需要探索新高度</string>
+				<key>width</key>
+				<integer>600</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-02-16</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Bergstraße 22 ，Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>Katz Orange餐厅的装饰采用的是典型的波西米亚风格，意在打造一个舒适放松的就餐环境。但并不代表在这里你只能是随便吃吃就算了。餐厅的餐点都是非常有诚意的格调之作，只严格选用本地最新鲜的食材，让你在宾至如归的同时还能吃到最本土的料理。
+</string>
+				<key>eid</key>
+				<integer>129986</integer>
+				<key>enddate</key>
+				<integer>3010530378</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>世界最美的诗都是千姿百态的沉默写成</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-29/event120261.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Katz Orange餐厅的装饰采用的是典型的波西米亚风格，意在打造一个舒适放松的就餐环境。但并不代表在这里你只能是随便吃吃就算了。餐厅的餐点都是非常有诚意的格调之作，只严格选用本地最新鲜的食材，让你在宾至如归的同时还能吃到最本土的料理。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120247.jpg&quot; height=&quot;920&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120247.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120263.jpg&quot; height=&quot;1119&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120263.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120259.jpg&quot; height=&quot;612&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120259.jpg&quot; width=&quot;612&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120252.jpg&quot; height=&quot;439&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120252.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120246.jpg&quot; height=&quot;480&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120246.jpg&quot; width=&quot;640&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120257.jpg&quot; height=&quot;1035&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120257.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120255.jpg&quot; height=&quot;510&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120255.jpg&quot; width=&quot;728&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120260.jpg&quot; height=&quot;920&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120260.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120251.jpg&quot; height=&quot;558&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120251.jpg&quot; width=&quot;400&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120248.jpg&quot; height=&quot;600&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120248.jpg&quot; width=&quot;400&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120250.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120250.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bergstraße 22 ，Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://www.katzorange.com/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 30 983 208 430&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Katz Orange</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-129986.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>私厨,幸福,赏味,纯质,惬意,餐吧</string>
+				<key>telephone</key>
+				<string>+4930983208430</string>
+				<key>title</key>
+				<string>Katz Orange餐厅【美味之旅要舒适的品味】</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-02-15</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Schönhauser Allee 8, 10119 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>THE BARN ROASTERY成立于2012年9月。与其说这里是咖啡店，不如说这里更像是咖啡实验室。店内的咖啡菜单选择并不多，确是用心之选。用店家的话来说是希望人们可以慢下来安安静静的欣赏一杯纯粹的咖啡。店内的装饰非常简洁，环境非常安静。之所以能做到这点，是因为店里有几个有点“严苛”的规矩，不能带宠物，不能带手推车（带小孩的父母们只能温柔的请你们绕道而行），笔记本电脑只能在互联区才能使用等。店主的用心良苦只为给更多的人提供一个宁静的咖啡时间，真是深得我心啊！
+</string>
+				<key>eid</key>
+				<integer>129983</integer>
+				<key>enddate</key>
+				<integer>3007078236</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>繁华静处遇知音</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-29/event120223.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;THE BARN ROASTERY成立于2012年9月。与其说这里是咖啡店，不如说这里更像是咖啡实验室。店内的咖啡菜单选择并不多，确是用心之选。用店家的话来说是希望人们可以慢下来安安静静的欣赏一杯纯粹的咖啡。店内的装饰非常简洁，环境非常安静。之所以能做到这点，是因为店里有几个有点“严苛”的规矩，不能带宠物，不能带手推车（带小孩的父母们只能温柔的请你们绕道而行），笔记本电脑只能在互联区才能使用等。店主的用心良苦只为给更多的人提供一个宁静的咖啡时间，真是深得我心啊！&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120216.jpg&quot; height=&quot;750&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120216.jpg&quot; width=&quot;500&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120215.jpg&quot; height=&quot;750&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120215.jpg&quot; width=&quot;500&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120211.jpg&quot; height=&quot;552&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120211.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120225.jpg&quot; height=&quot;346&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120225.jpg&quot; width=&quot;689&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120224.jpg&quot; height=&quot;346&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120224.jpg&quot; width=&quot;689&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120221.jpg&quot; height=&quot;484&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120221.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120220.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120220.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120209.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120209.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120206.jpg&quot; height=&quot;333&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120206.jpg&quot; width=&quot;500&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120210.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-29/event120210.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Schönhauser Allee 8, 10119 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://barn.bigcartel.com/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周一至周五 08:30-18:00&lt;/p&gt;&lt;p&gt;周六至周日 10:00–18:00&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>THE BARN ROASTERY</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-129983.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>乐活,温润,纯质,探店,逛街,咖啡馆</string>
+				<key>telephone</key>
+				<string></string>
+				<key>title</key>
+				<string>THE BARN ROASTERY 据说是柏林最好的咖啡</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-01-14</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Raumerstrasse 19 10437 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>这是一间本地的手工设计店，所出售的商品都是来自当地年轻设计师们的作品。店主将这些有趣的设计引进到自己店内出售，不仅给顾客带来更多的生活选择，也给这些设计师们更多的发挥平台，可谓是双赢。店内的产品涉及到生活的方方面面，来这里逛会有一种眼花缭乱但又心花怒放的感觉。而且你还可以点一杯美味的咖啡，边喝边逛，慢下来，静静的挑选你所中意的商品。生活原本就应该慢一点。
+</string>
+				<key>eid</key>
+				<integer>129971</integer>
+				<key>enddate</key>
+				<integer>3007012685</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>没有逻辑的正能量就是负能量</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-28/event120099.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;这是一间本地的手工设计店，所出售的商品都是来自当地年轻设计师们的作品。店主将这些有趣的设计引进到自己店内出售，不仅给顾客带来更多的生活选择，也给这些设计师们更多的发挥平台，可谓是双赢。店内的产品涉及到生活的方方面面，来这里逛会有一种眼花缭乱但又心花怒放的感觉。而且你还可以点一杯美味的咖啡，边喝边逛，慢下来，静静的挑选你所中意的商品。生活原本就应该慢一点。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120115.jpg&quot; height=&quot;786&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120115.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120100.jpg&quot; height=&quot;362&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120100.jpg&quot; width=&quot;362&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120102.jpg&quot; height=&quot;353&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120102.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120107.jpg&quot; height=&quot;600&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120107.jpg&quot; width=&quot;600&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120104.jpg&quot; height=&quot;354&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120104.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120103.jpg&quot; height=&quot;353&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120103.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120101.jpg&quot; height=&quot;353&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120101.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120108.jpg&quot; height=&quot;600&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120108.jpg&quot; width=&quot;600&quot;&gt;&lt;/img&gt;​&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Raumerstrasse 19&lt;/p&gt;&lt;p&gt;10437 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;www.pomeranza-shop.de&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 030 484 957 60&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周一到周五10:00-19:00&lt;/p&gt;&lt;p&gt;周六 11:00-18:00&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Pomeranza</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-129971.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>乐活,有趣,惬意,探店,逛街,咖啡馆,艺术空间,手工作坊</string>
+				<key>telephone</key>
+				<string>+4903048495760</string>
+				<key>title</key>
+				<string>Pomeranza 手工设计【生活可以多一点小惊喜】</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-07-13</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Budapester Str. 40, Berlin, BE, 10787</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>“No swimsuit required, just an open mind”就像这句标语所表达的，比基尼酒店并非跟比基尼有关，而是倡导一种想象力的扩展。这间风格独特的设计酒店创建于2014年6月。把户外的生活带到室内是比基尼酒店的宗旨，酒店自然的设计会让你觉得来到一个室内森林。而很有趣的是，酒店所在的位置就在柏林动物园外，内外都是大自然的奇妙感觉一定会给你难忘的记忆。
+</string>
+				<key>eid</key>
+				<integer>129973</integer>
+				<key>enddate</key>
+				<integer>3011935546</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>3</integer>
+				<key>feeltitle</key>
+				<string>岁月有着不动声色的力量</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-28/event120133.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;“No swimsuit required, just an open mind”就像这句标语所表达的，比基尼酒店并非跟比基尼有关，而是倡导一种想象力的扩展。这间风格独特的设计酒店创建于2014年6月。把户外的生活带到室内是比基尼酒店的宗旨，酒店自然的设计会让你觉得来到一个室内森林。而很有趣的是，酒店所在的位置就在柏林动物园外，内外都是大自然的奇妙感觉一定会给你难忘的记忆。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120127.jpg&quot; height=&quot;624&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120127.jpg&quot; width=&quot;1024&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120128.jpg&quot; height=&quot;798&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120128.jpg&quot; width=&quot;1192&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120135.jpg&quot; height=&quot;413&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120135.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120136.jpg&quot; height=&quot;365&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120136.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120129.jpg&quot; height=&quot;1024&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120129.jpg&quot; width=&quot;790&quot;&gt;&lt;/img&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120130.jpg&quot; height=&quot;766&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120130.jpg&quot; width=&quot;1024&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120126.jpg&quot; height=&quot;773&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120126.jpg&quot; width=&quot;1024&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120125.jpg&quot; height=&quot;1024&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-28/event120125.jpg&quot; width=&quot;693&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Budapester Str. 40, Berlin, BE, 10787&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://www.25hours-hotels.com/&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>25hours Hotel Bikini Berlin</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-129973.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>幸福,雅韵,惬意,艺术空间</string>
+				<key>telephone</key>
+				<string></string>
+				<key>title</key>
+				<string>25hours Hotel Bikini Berlin 与城市森林来一场邂逅</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-08-12</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Charlottenstraße 60 (Ecke Mohrenstraße) - 10117 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>Fassbender &amp; Rausch 是德国最具盛名的一间巧克力商店，里面售卖种类繁多而且美味无比的巧克力制品。店里还有用巧克力制成的德国著名地标建筑物雕像。商店的二楼有专门的巧克力餐厅，在这里你除了可以吃到可口的各式巧克力甜点，一定不能错过他家镇店之宝--号称是最好喝的热巧克力。浓郁的热巧克力加上新鲜的奶油。虽然价格不便宜，但对于巧克力爱好者来说，这里绝对是值得你选择的。
+</string>
+				<key>eid</key>
+				<integer>129906</integer>
+				<key>enddate</key>
+				<integer>3006921490</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>幸运从来不是理所当然，它一直跟随着奔跑的脚步</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-04-25/event119472.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Fassbender &amp;amp; Rausch 是德国最具盛名的一间巧克力商店，里面售卖种类繁多而且美味无比的巧克力制品。店里还有用巧克力制成的德国著名地标建筑物雕像。商店的二楼有专门的巧克力餐厅，在这里你除了可以吃到可口的各式巧克力甜点，一定不能错过他家镇店之宝--号称是最好喝的热巧克力。浓郁的热巧克力加上新鲜的奶油。虽然价格不便宜，但对于巧克力爱好者来说，这里绝对是值得你选择的。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119475.jpg&quot; height=&quot;353&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119475.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119468.jpg&quot; height=&quot;541&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119468.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119464.jpg&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119464.jpg&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119460.jpg&quot; height=&quot;728&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119460.jpg&quot; width=&quot;383&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119470.jpg&quot; height=&quot;670&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119470.jpg&quot; width=&quot;385&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119473.jpg&quot; height=&quot;385&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119473.jpg&quot; width=&quot;570&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119458.jpg&quot; height=&quot;1024&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119458.jpg&quot; width=&quot;685&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119469.jpg&quot; height=&quot;278&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119469.jpg&quot; width=&quot;636&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119459.jpg&quot; height=&quot;278&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119459.jpg&quot; width=&quot;636&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119461.jpg&quot; height=&quot;360&quot; src=&quot;http://pic.huodongjia.com/event/2015-04-25/event119461.jpg&quot; width=&quot;450&quot;&gt;&lt;/img&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Charlottenstraße 60 (Ecke Mohrenstraße) - 10117 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://www.fassbender-rausch.de/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 (0)30 - 757 88 2440&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;每日  10am-8pm&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>FASSBENDER &amp; RAUSCH</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-129906.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>私厨,温润,赏味,纯质,惬意,餐吧,甜品铺</string>
+				<key>telephone</key>
+				<string>+49(0)30-757882440</string>
+				<key>title</key>
+				<string>FASSBENDER &amp; RAUSCH 只为了那一杯热巧克力</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-08-11</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Dunckerstraße 81 (Corner Lettestr.)  10437 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>“for the woman who has everything, for the man who needs nothing”是Victoria met Albert的座右铭。这间杂货铺云集了各式有趣也很实用的装饰用品，生活周边以及时尚设计，吸引了大批柏林本土的潮客前来寻宝。在柏林这个设计前沿城市，这样的小店是你不应该错过的。
+</string>
+				<key>eid</key>
+				<integer>130259</integer>
+				<key>enddate</key>
+				<integer>3011421497</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>生命就像一盒巧克力，结果往往出人意料</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-05-13/event123069.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;“for the woman who has everything, for the man who needs nothing”是Victoria met Albert的座右铭。这间杂货铺云集了各式有趣也很实用的装饰用品，生活周边以及时尚设计，吸引了大批柏林本土的潮客前来寻宝。在柏林这个设计前沿城市，这样的小店是你不应该错过的。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123067.jpg&quot; height=&quot;640&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123067.jpg&quot; width=&quot;432&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123091.jpg&quot; height=&quot;980&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123091.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123062.jpg&quot; height=&quot;640&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123062.jpg&quot; width=&quot;426&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123060.jpg&quot; height=&quot;736&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123060.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123063.jpg&quot; height=&quot;736&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123063.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123066.jpg&quot; height=&quot;640&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123066.jpg&quot; width=&quot;640&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123080.jpg&quot; height=&quot;357&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-13/event123080.jpg&quot; width=&quot;554&quot;&gt;&lt;/img&gt;​&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dunckerstraße 81 (Corner Lettestr.)&lt;/p&gt;&lt;p&gt;10437 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;www.victoriametalbert.com&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 030 446 747 72&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周一到周六 11:00-20:00&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Victoria met Albert</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-130259.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>有趣,酷炫,探店,逛街,艺术空间,杂货铺</string>
+				<key>telephone</key>
+				<string>+4903044674772</string>
+				<key>title</key>
+				<string>Victoria met Albert 杂货店的设计潮流</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array>
+			<dict>
+				<key>begin_time</key>
+				<string>2015-08-11</string>
+				<key>hasweb</key>
+				<integer>1</integer>
+				<key>height</key>
+				<integer>719</integer>
+				<key>id</key>
+				<integer>148</integer>
+				<key>img</key>
+				<string>http://pic.huodongjia.com/event/2015-06-24/event129047.jpg</string>
+				<key>keywords</key>
+				<string>趣味 品牌  逛街</string>
+				<key>text</key>
+				<string>&lt;body&gt;&lt;p&gt;其实静下心来看看你的衣橱，其实你并不需要这么多的衣服。要学着为衣橱做减法，太时髦的，小了穿不下的，商店打折冲动购入从未穿过一次的，统统扔掉！你真正需要的是一些百搭、质量过硬、能够反复穿搭的经典款。&lt;/p&gt;&lt;/body&gt;</string>
+				<key>themeurl</key>
+				<string>http://api.xiaorizi.me/api/themedetail/?themeid=148</string>
+				<key>title</key>
+				<string>乐享生活 购物为先</string>
+				<key>width</key>
+				<integer>736</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-08-10</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Gabriel-Max-Strasse 4, 10245 Berlin</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>在柏林这样艺术感十足的城市，总是会在不经意间找到一些小惊喜，Silo就是这样的一个地方。这家咖啡简餐店规模不大，却非常受本地人的欢迎。店内采用实木设计，让人进店后就有一种温暖的舒适感觉。Silo所出售的咖啡来自世界各地，专业感十足，备受咖啡爱好者的赞誉，而最让人惊艳的是这里出售的早餐，店主严格选用食材，力求健康又美味。
+</string>
+				<key>eid</key>
+				<integer>130187</integer>
+				<key>enddate</key>
+				<integer>3007880733</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>人生的目的就是过一个有目的的人生</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-05-08/event122099.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;在柏林这样艺术感十足的城市，总是会在不经意间找到一些小惊喜，Silo就是这样的一个地方。这家咖啡简餐店规模不大，却非常受本地人的欢迎。店内采用实木设计，让人进店后就有一种温暖的舒适感觉。Silo所出售的咖啡来自世界各地，专业感十足，备受咖啡爱好者的赞誉，而最让人惊艳的是这里出售的早餐，店主严格选用食材，力求健康又美味。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122116.jpg&quot; height=&quot;353&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122116.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122097.jpg&quot; height=&quot;552&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122097.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122100.jpg&quot; height=&quot;612&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122100.jpg&quot; width=&quot;612&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122093.jpg&quot; height=&quot;640&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122093.jpg&quot; width=&quot;640&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122098.jpg&quot; height=&quot;1104&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122098.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122087.jpg&quot; height=&quot;356&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122087.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122090.jpg&quot; height=&quot;746&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122090.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122089.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122089.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122096.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122096.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122102.jpg&quot; height=&quot;764&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122102.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122103.jpg&quot; height=&quot;756&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122103.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122105.jpg&quot; height=&quot;769&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122105.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122104.jpg&quot; height=&quot;486&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122104.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122101.jpg&quot; height=&quot;751&quot; src=&quot;http://pic.huodongjia.com/event/2015-05-08/event122101.jpg&quot; width=&quot;550&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gabriel-Max-Strasse 4, 10245 Berlin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 30 74078746&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;8:30 am - 7:00 pm&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Cafe Silo</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-130187.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>乐活,温润,惬意,探店,逛街,咖啡馆,艺术空间</string>
+				<key>telephone</key>
+				<string>+493074078746</string>
+				<key>title</key>
+				<string>Cafe Silo 来一份健康又美味的早餐</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>2015-08-09</string>
+		<key>events</key>
+		<array>
+			<dict>
+				<key>address</key>
+				<string>Invalidenstraße 155 10115 Berlin Mitte</string>
+				<key>adurl</key>
+				<string></string>
+				<key>city</key>
+				<string>柏林</string>
+				<key>detail</key>
+				<string>回想过去最美好的就餐体验，印象最深刻的其实并不是那些美轮美奂的山珍海味，反而是十分平凡的质朴味道。顿时才发觉，人生最美好的事物往往是最容易被忽略的简单。对于这种感悟，位于柏林的VomEinfachendasGute也深有同感。
+
+
+这间小小的小食店如同它的名字“选取简单的美好”一般，只精选有限的食材，制作最健康简单的三明治和沙拉，搭配纯粹的葡萄酒选择，为食客提供简单而美好的食物。
+
+
+这里的选择并不多，但每一件都是精心挑选，比如香肠是来自勃兰登堡的有机农场，生火腿精选自意大利和西班牙。虽然简单，但很用心。</string>
+				<key>eid</key>
+				<integer>130848</integer>
+				<key>enddate</key>
+				<integer>3011934997</integer>
+				<key>eventtype</key>
+				<integer>1</integer>
+				<key>feel</key>
+				<string>香艳指数</string>
+				<key>feelnum</key>
+				<integer>0</integer>
+				<key>feeltitle</key>
+				<string>每一个生活的细节都是某一种功课</string>
+				<key>imgs</key>
+				<array>
+					<string>http://pic.huodongjia.com/event/2015-06-19/event128722.jpg</string>
+				</array>
+				<key>islongtime</key>
+				<integer>1</integer>
+				<key>mobileURL</key>
+				<string>&lt;body&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;回想过去最美好的就餐体验，印象最深刻的其实并不是那些美轮美奂的山珍海味，反而是十分平凡的质朴味道。顿时才发觉，人生最美好的事物往往是最容易被忽略的简单。对于这种感悟，位于柏林的Vom Einfachen das Gute也深有同感。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128715.jpg&quot; height=&quot;545&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128715.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128706.jpg&quot; height=&quot;544&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128706.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128723.jpg&quot; height=&quot;545&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128723.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128709.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128709.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;这间小小的小食店如同它的名字“选取简单的美好”一般，只精选有限的食材，制作最健康简单的三明治和沙拉，搭配纯粹的葡萄酒选择，为食客提供简单而美好的食物。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128705.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128705.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128703.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128703.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128707.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128707.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128710.jpg&quot; height=&quot;490&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128710.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;这里的选择并不多，但每一件都是精心挑选，比如香肠是来自勃兰登堡的有机农场，生火腿精选自意大利和西班牙。虽然简单，但很用心。&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128717.jpg&quot; height=&quot;667&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128717.jpg&quot; width=&quot;1000&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt=&quot;&quot; data-cke-saved-src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128713.jpg&quot; height=&quot;398&quot; src=&quot;http://pic.huodongjia.com/event/2015-06-19/event128713.jpg&quot; width=&quot;736&quot;&gt;&lt;/img&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Invalidenstraße 155&lt;/p&gt;&lt;p&gt;10115 Berlin Mitte&lt;/p&gt;&lt;p&gt;&lt;strong&gt;网站&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;http://vomeinfachendasgute.com/&lt;/p&gt;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;+49 30 28864849&lt;/p&gt;&lt;p&gt;&lt;strong&gt;营业时间&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;周一至周六 10:00–20&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;/body&gt;</string>
+				<key>note</key>
+				<string></string>
+				<key>position</key>
+				<string>,</string>
+				<key>questionURL</key>
+				<string></string>
+				<key>remark</key>
+				<string>Vom Einfachen das Gute</string>
+				<key>shareURL</key>
+				<string>http://api.xiaorizi.me/app/share-130848.html</string>
+				<key>startdate</key>
+				<integer>0</integer>
+				<key>tag</key>
+				<string>私厨,幸福,赏味,纯质,惬意</string>
+				<key>telephone</key>
+				<string>+493028864849</string>
+				<key>title</key>
+				<string>Vom Einfachen das Gute 质朴美味【回味无穷】</string>
+			</dict>
+		</array>
+		<key>themes</key>
+		<array/>
+	</dict>
+</array>
+</plist>
